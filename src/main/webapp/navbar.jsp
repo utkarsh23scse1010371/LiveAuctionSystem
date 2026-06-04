@@ -5,7 +5,7 @@
         <a class="navbar-brand fw-bold"
            href="index.jsp">
 
-            🔥 Live Auction
+              Live Auction
 
         </a>
 
